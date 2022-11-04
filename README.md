@@ -9,11 +9,13 @@ Subjects Learned:
 * EventListeners
 * Display messagens without blocking the entire browser ( like alert() );
 
-## Main Screen Display All Pizza from the json:
-![alt Main Screen Display All Pizza from the json](https://github.com/heronoa/ecommerce_base-pizza-/blob/master/body.jpg?raw=true)
+## How to use
 
-## Details box opens when click on any pizza:
-![alt Details box opens when click on any pizza](https://github.com/heronoa/ecommerce_base-pizza-/blob/master/modal.jpg?raw=true)
+1. Main Screen Display:
+![main screen](https://github.com/eduardorocham/urna/blob/main/images/readme/main_page.png)
 
-## Cart opens when have at least one pizza add by the user the calculation systems is all functional and dinamic: 
-![alt Cart opens when have at least one pizza add by the user the calculation systems is all functional and dinamic](https://github.com/heronoa/ecommerce_base-pizza-/blob/master/cart.jpg?raw=true)
+2. Candidate data when you type in the numbers for councilor:
+![councilor screen](https://github.com/eduardorocham/urna/blob/main/images/readme/vereador_page.png)
+
+3. Candidate data when you type in the numbers for mayor
+![mayor screen](https://github.com/eduardorocham/urna/blob/main/images/readme/prefeito_page.png)
