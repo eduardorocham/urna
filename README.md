@@ -11,11 +11,12 @@ Subjects Learned:
 
 ## How to use
 
-1. Main Screen Display:
+1 - Main Screen Display:
+
 ![main screen](https://github.com/eduardorocham/urna/blob/main/images/readme/main_page.png)
 
-2. Candidate data when you type in the numbers for councilor:
+2 - Candidate data when you type in the numbers for councilor:
 ![councilor screen](https://github.com/eduardorocham/urna/blob/main/images/readme/vereador_page.png)
 
-3. Candidate data when you type in the numbers for mayor
+3 - Candidate data when you type in the numbers for mayor
 ![mayor screen](https://github.com/eduardorocham/urna/blob/main/images/readme/prefeito_page.png)
